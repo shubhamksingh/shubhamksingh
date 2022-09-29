@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.aalpha.net%2Fblog%2Fthe-process-of-hiring-full-stack-developers-for-your-next-project%2F&psig=AOvVaw1-vtO_0JWFMEysYo86CCkz&ust=1664521755639000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCODO-fS4ufoCFQAAAAAdAAAAABAD)](https://rishavchanda.io)
+[![MasterHead](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shubham kumar singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
