@@ -14,7 +14,9 @@
 
 - 📫 How to reach me **shubhsingh0795@gmail.com**
 
-- 📄 Know about my experiences [Resume/](https://buirld-rho-coral.vercel.app/)
+- 📄 Know about me [Resume](https://buirld-rho-coral.vercel.app/)
+
+- 📄 Know about my projects [Resume](https://buirld-rho-coral.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
