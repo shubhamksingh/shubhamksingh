@@ -16,7 +16,7 @@
 
 - 📄 Know about me [Resume](https://buirld-rho-coral.vercel.app/)
 
-- 📄 Know about my projects [Resume](https://buirld-rho-coral.vercel.app/)
+- 📄 Know about my [Projects](https://shubhamksingh.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
