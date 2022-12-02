@@ -18,7 +18,7 @@
 
 - 📄 Know about my [Projects](https://shubhamksingh.github.io/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My CP Profile:</h3>
 <p align="left">
 <a href="https://codeforces.com/profile/singh_shubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="singh_shubham" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/proxyking" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="proxyking" height="30" width="40" /></a>
